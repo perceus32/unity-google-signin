@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">194914757097</string>
+  <string name="google_storage_bucket" translatable="false">fir-authdemo-c313b.appspot.com</string>
+  <string name="project_id" translatable="false">fir-authdemo-c313b</string>
+  <string name="google_api_key" translatable="false">AIzaSyCOL2U3sol82iYz-E1gAtJ8gNN2t5cmMSg</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCOL2U3sol82iYz-E1gAtJ8gNN2t5cmMSg</string>
+  <string name="google_app_id" translatable="false">1:194914757097:android:a144ee0ee3edd6767bc378</string>
+  <string name="default_android_client_id" translatable="false">194914757097-tlch5cfrsp6n0dd9s8charl9aa0d4p5l.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">194914757097-glhbihgi6e18nd2gs5l3r83j0u8ej60u.apps.googleusercontent.com</string>
+</resources>
